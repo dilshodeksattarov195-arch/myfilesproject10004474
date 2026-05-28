@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippingdncrypt",
+        "uuid": 30297928,
+        "checksum": "jain8a"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
